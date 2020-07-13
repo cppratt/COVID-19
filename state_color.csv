@@ -1,0 +1,53 @@
+rank,State,By governor,By past 4 elections
+1,California,Blue,Blue
+2,Texas,Red,Red
+3,Florida,Red,Red
+4,New York,Blue,Blue
+5,Pennsylvania,Blue,Blue
+6,Illinois,Blue,Blue
+7,Ohio,Red,Red
+8,Georgia,Red,Red
+9,North Carolina,Blue,Red
+10,Michigan,Blue,Blue
+11,New Jersey,Blue,Blue
+12,Virginia,Blue,Blue
+13,Washington,Blue,Blue
+14,Arizona,Red,Red
+15,Massachusetts,Red,Blue
+16,Tennessee,Red,Red
+17,Indiana,Red,Red
+18,Missouri,Red,Red
+19,Maryland,Red,Blue
+20,Wisconsin,Blue,Blue
+21,Colorado,Blue,Blue
+22,Minnesota,Blue,Blue
+23,South Carolina,Red,Red
+24,Alabama,Red,Red
+25,Louisiana,Blue,Red
+26,Kentucky,Blue,Red
+27,Oregon,Blue,Blue
+28,Oklahoma,Red,Red
+29,Connecticut,Blue,Blue
+30,Utah,Red,Red
+31,Iowa,Red,Red
+32,Nevada,Blue,Blue
+33,Arkansas,Red,Red
+34,Puerto Rico,,
+35,Mississippi,Red,Red
+36,Kansas,Blue,Red
+37,New Mexico,Blue,Blue
+38,Nebraska,Red,Red
+39,Idaho,Red,Red
+40,West Virginia,Red,Red
+41,Hawaii,Blue,Blue
+42,New Hampshire,Red,Blue
+43,Maine,Blue,Blue
+44,Montana,Blue,Red
+45,Rhode Island,Blue,Blue
+46,Delaware,Blue,Blue
+47,South Dakota,Red,Red
+48,North Dakota,Red,Red
+49,Alaska,Red,Red
+50,District of Columbia,Blue,Blue
+51,Vermont,Red,Blue
+52,Wyoming,Red,Red
